@@ -1,0 +1,721 @@
+"Game Date","DOW","Home Team","Score","Away Team","Score",".","Att."
+01/19/13,"Sat.","Los Angeles",2,"Chicago",5,,18545
+01/19/13,"Sat.","Florida",5,"Carolina",1,,19688
+01/19/13,"Sat.","Nashville",2,"Columbus",3,"SO",17113
+01/19/13,"Sat.","Minnesota",4,"Colorado",2,,19298
+01/19/13,"Sat.","St. Louis",6,"Detroit",0,,20035
+01/19/13,"Sat.","NY Islanders",1,"New Jersey",2,,16170
+01/19/13,"Sat.","Winnipeg",1,"Ottawa",4,,15004
+01/19/13,"Sat.","Boston",3,"NY Rangers",1,,17565
+01/19/13,"Sat.","Philadelphia",1,"Pittsburgh",3,,19994
+01/19/13,"Sat.","Dallas",4,"Phoenix",3,,18532
+01/19/13,"Sat.","Vancouver",3,"Anaheim",7,,18910
+01/19/13,"Sat.","Montreal",1,"Toronto",2,,21273
+01/19/13,"Sat.","Tampa Bay",6,"Washington",3,,19204
+01/20/13,"Sun.","Phoenix",4,"Chicago",6,,17363
+01/20/13,"Sun.","Minnesota",1,"Dallas",0,,18296
+01/20/13,"Sun.","Vancouver",2,"Edmonton",3,"SO",18910
+01/20/13,"Sun.","Buffalo",5,"Philadelphia",2,,19070
+01/20/13,"Sun.","NY Rangers",3,"Pittsburgh",6,,17200
+01/20/13,"Sun.","Calgary",1,"San Jose",4,,19289
+01/21/13,"Mon.","Ottawa",4,"Florida",0,,19952
+01/21/13,"Mon.","Toronto",1,"Buffalo",2,,19475
+01/21/13,"Mon.","Calgary",4,"Anaheim",5,,19289
+01/21/13,"Mon.","Nashville",3,"St. Louis",4,"SO",17113
+01/21/13,"Mon.","NY Islanders",4,"Tampa Bay",3,,15322
+01/21/13,"Mon.","Boston",2,"Winnipeg",1,"SO",17565
+01/21/13,"Mon.","Columbus",3,"Detroit",4,"SO",19206
+01/22/13,"Tue.","Detroit",1,"Dallas",2,,20066
+01/22/13,"Tue.","Colorado",3,"Los Angeles",1,,18007
+01/22/13,"Tue.","Montreal",4,"Florida",1,,21273
+01/22/13,"Tue.","Minnesota",1,"Nashville",3,,17540
+01/22/13,"Tue.","New Jersey",3,"Philadelphia",0,,17625
+01/22/13,"Tue.","Chicago",3,"St. Louis",2,,21455
+01/22/13,"Tue.","Edmonton",3,"San Jose",6,,16839
+01/22/13,"Tue.","Carolina",1,"Tampa Bay",4,,18680
+01/22/13,"Tue.","Washington",2,"Winnipeg",4,,18506
+01/23/13,"Wed.","Phoenix",5,"Columbus",1,,8355
+01/23/13,"Wed.","Vancouver",3,"Calgary",2,"SO",19810
+01/23/13,"Wed.","NY Rangers",4,"Boston",3,"OT",17200
+01/23/13,"Wed.","Pittsburgh",2,"Toronto",5,,18641
+01/24/13,"Thu.","Dallas",2,"Chicago",3,"OT",17868
+01/24/13,"Thu.","Colorado",4,"Columbus",0,,14325
+01/24/13,"Thu.","Edmonton",2,"Los Angeles",1,"OT",16839
+01/24/13,"Thu.","St. Louis",3,"Nashville",0,,16047
+01/24/13,"Thu.","Washington",1,"Montreal",4,,18506
+01/24/13,"Thu.","Toronto",4,"NY Islanders",7,,19125
+01/24/13,"Thu.","Florida",1,"Ottawa",3,,15634
+01/24/13,"Thu.","Philadelphia",2,"NY Rangers",1,,19596
+01/24/13,"Thu.","San Jose",5,"Phoenix",3,,17562
+01/24/13,"Thu.","Carolina",6,"Buffalo",3,,18081
+01/25/13,"Fri.","Buffalo",1,"Carolina",3,,18824
+01/25/13,"Fri.","Detroit",5,"Minnesota",3,,20066
+01/25/13,"Fri.","Boston",4,"NY Islanders",2,,17565
+01/25/13,"Fri.","Tampa Bay",6,"Ottawa",4,,19204
+01/25/13,"Fri.","Winnipeg",4,"Pittsburgh",2,,15004
+01/25/13,"Fri.","Anaheim",0,"Vancouver",5,,17529
+01/25/13,"Fri.","New Jersey",3,"Washington",2,"OT",17625
+01/26/13,"Sat.","Columbus",2,"Chicago",3,,18381
+01/26/13,"Sat.","San Jose",4,"Colorado",0,,17562
+01/26/13,"Sat.","Calgary",4,"Edmonton",3,,19289
+01/26/13,"Sat.","Phoenix",2,"Los Angeles",4,,14780
+01/26/13,"Sat.","Anaheim",3,"Nashville",2,"SO",17174
+01/26/13,"Sat.","Florida",1,"Philadelphia",7,,19311
+01/26/13,"Sat.","Dallas",3,"St. Louis",4,,17131
+01/26/13,"Sat.","NY Rangers",5,"Toronto",2,,17200
+01/27/13,"Sun.","Chicago",2,"Detroit",1,"OT",21607
+01/27/13,"Sun.","St. Louis",5,"Minnesota",4,"OT",18265
+01/27/13,"Sun.","Winnipeg",5,"NY Islanders",4,"OT",15004
+01/27/13,"Sun.","Tampa Bay",5,"Philadelphia",1,,19204
+01/27/13,"Sun.","Ottawa",1,"Pittsburgh",2,"SO",20081
+01/27/13,"Sun.","San Jose",4,"Vancouver",1,,17562
+01/27/13,"Sun.","Washington",3,"Buffalo",2,,18506
+01/27/13,"Sun.","Montreal",4,"New Jersey",3,"OT",21273
+01/28/13,"Mon.","Edmonton",4,"Colorado",1,,16839
+01/28/13,"Mon.","Columbus",2,"Dallas",1,,10475
+01/28/13,"Mon.","Phoenix",4,"Nashville",0,,8581
+01/28/13,"Mon.","Los Angeles",3,"Vancouver",2,"SO",18344
+01/28/13,"Mon.","Carolina",3,"Boston",5,,17190
+01/29/13,"Tue.","Minnesota",3,"Columbus",2,,17584
+01/29/13,"Tue.","Detroit",4,"Dallas",1,,20066
+01/29/13,"Tue.","Tampa Bay",5,"Florida",2,,19204
+01/29/13,"Tue.","Boston",2,"New Jersey",1,"SO",17565
+01/29/13,"Tue.","Pittsburgh",1,"NY Islanders",4,,18657
+01/29/13,"Tue.","NY Rangers",2,"Philadelphia",1,,17200
+01/29/13,"Tue.","San Jose",3,"Anaheim",2,"SO",17562
+01/29/13,"Tue.","Buffalo",3,"Toronto",4,"OT",18801
+01/29/13,"Tue.","Montreal",4,"Winnipeg",3,,21273
+01/29/13,"Tue.","Ottawa",3,"Washington",2,,19267
+01/30/13,"Wed.","Minnesota",3,"Chicago",2,"SO",18550
+01/30/13,"Wed.","Vancouver",3,"Colorado",0,,18910
+01/30/13,"Wed.","Phoenix",1,"Edmonton",2,"OT",12955
+01/30/13,"Wed.","Ottawa",5,"Montreal",1,,19620
+01/31/13,"Thu.","Calgary",3,"Colorado",6,,19289
+01/31/13,"Thu.","San Jose",3,"Edmonton",2,"SO",17562
+01/31/13,"Thu.","Los Angeles",1,"Nashville",2,"SO",18118
+01/31/13,"Thu.","New Jersey",4,"NY Islanders",5,"OT",17625
+01/31/13,"Thu.","NY Rangers",0,"Pittsburgh",3,,17200
+01/31/13,"Thu.","Boston",4,"Buffalo",7,,17565
+01/31/13,"Thu.","Columbus",1,"St. Louis",4,,11155
+01/31/13,"Thu.","Florida",6,"Winnipeg",3,,15731
+01/31/13,"Thu.","Toronto",3,"Washington",2,,19374
+02/01/13,"Fri.","Tampa Bay",8,"Winnipeg",3,,19204
+02/01/13,"Fri.","Detroit",5,"St. Louis",3,,20066
+02/01/13,"Fri.","Dallas",4,"Phoenix",3,"SO",18101
+02/01/13,"Fri.","Carolina",1,"Ottawa",0,,18680
+02/01/13,"Fri.","Anaheim",3,"Minnesota",1,,13007
+02/01/13,"Fri.","Vancouver",2,"Chicago",1,"SO",18910
+02/01/13,"Fri.","Washington",3,"Philadelphia",2,,18506
+02/02/13,"Sat.","Calgary",2,"Chicago",3,"SO",19289
+02/02/13,"Sat.","Toronto",0,"Boston",1,,19246
+02/02/13,"Sat.","Philadelphia",5,"Carolina",3,,19691
+02/02/13,"Sat.","Phoenix",2,"Dallas",0,,12151
+02/02/13,"Sat.","Colorado",3,"Edmonton",1,,16119
+02/02/13,"Sat.","Columbus",4,"Detroit",2,,17612
+02/02/13,"Sat.","Anaheim",7,"Los Angeles",4,,17436
+02/02/13,"Sat.","Pittsburgh",5,"New Jersey",1,,18635
+02/02/13,"Sat.","San Jose",1,"Nashville",2,"SO",17562
+02/02/13,"Sat.","Tampa Bay",2,"NY Rangers",3,,19204
+02/02/13,"Sat.","Montreal",6,"Buffalo",1,,21273
+02/03/13,"Sun.","Buffalo",3,"Florida",4,,18831
+02/03/13,"Sun.","NY Islanders",0,"New Jersey",3,,11558
+02/03/13,"Sun.","Montreal",2,"Ottawa",1,,21273
+02/03/13,"Sun.","Washington",3,"Pittsburgh",6,,18506
+02/04/13,"Mon.","Toronto",1,"Carolina",4,,19072
+02/04/13,"Mon.","Colorado",2,"Dallas",3,,13441
+02/04/13,"Mon.","Phoenix",2,"Minnesota",1,,9508
+02/04/13,"Mon.","Edmonton",2,"Vancouver",3,"OT",16839
+02/04/13,"Mon.","Anaheim",2,"San Jose",1,,14324
+02/05/13,"Tue.","San Jose",3,"Chicago",5,,17562
+02/05/13,"Tue.","Columbus",2,"Los Angeles",4,,11019
+02/05/13,"Tue.","Winnipeg",3,"Florida",2,"OT",15004
+02/05/13,"Tue.","St. Louis",1,"Nashville",6,,15206
+02/05/13,"Tue.","New Jersey",3,"NY Rangers",1,,17625
+02/05/13,"Tue.","NY Islanders",2,"Pittsburgh",4,,11318
+02/05/13,"Tue.","Detroit",1,"Calgary",4,,20066
+02/05/13,"Tue.","Ottawa",4,"Buffalo",3,,18345
+02/05/13,"Tue.","Washington",2,"Toronto",3,,18506
+02/05/13,"Tue.","Philadelphia",2,"Tampa Bay",1,,19616
+02/06/13,"Wed.","Edmonton",2,"Dallas",3,"OT",16839
+02/06/13,"Wed.","Montreal",1,"Boston",2,,21273
+02/06/13,"Wed.","Colorado",0,"Anaheim",3,,13776
+02/07/13,"Thu.","Phoenix",2,"Chicago",6,,15096
+02/07/13,"Thu.","Ottawa",2,"Carolina",3,"OT",17337
+02/07/13,"Thu.","St. Louis",1,"Detroit",5,,17699
+02/07/13,"Thu.","Nashville",3,"Los Angeles",0,,17113
+02/07/13,"Thu.","Philadelphia",2,"Florida",3,"SO",19616
+02/07/13,"Thu.","Buffalo",5,"Montreal",4,"SO",18866
+02/07/13,"Thu.","NY Rangers",4,"NY Islanders",1,,17200
+02/07/13,"Thu.","Minnesota",1,"Vancouver",4,,18352
+02/07/13,"Thu.","Columbus",3,"Calgary",4,"OT",10484
+02/07/13,"Thu.","Winnipeg",2,"Toronto",3,,15004
+02/07/13,"Thu.","New Jersey",4,"Tampa Bay",2,,14802
+02/07/13,"Thu.","Pittsburgh",5,"Washington",2,,18650
+02/08/13,"Fri.","Dallas",3,"Anaheim",1,,18112
+02/09/13,"Sat.","New Jersey",3,"Pittsburgh",1,,17625
+02/09/13,"Sat.","Minnesota",2,"Nashville",1,"OT",18806
+02/09/13,"Sat.","Detroit",2,"Edmonton",1,,20066
+02/09/13,"Sat.","Philadelphia",4,"Carolina",3,"OT",19691
+02/09/13,"Sat.","San Jose",0,"Phoenix",1,"SO",17562
+02/09/13,"Sat.","Vancouver",5,"Calgary",1,,18910
+02/09/13,"Sat.","NY Islanders",2,"Buffalo",3,,12608
+02/09/13,"Sat.","St. Louis",5,"Anaheim",6,"SO",18835
+02/09/13,"Sat.","Montreal",0,"Toronto",6,,21273
+02/09/13,"Sat.","Ottawa",0,"Winnipeg",1,,18594
+02/09/13,"Sat.","Washington",5,"Florida",0,,18506
+02/10/13,"Sun.","Nashville",0,"Chicago",3,,17113
+02/10/13,"Sun.","Columbus",1,"Edmonton",3,,14364
+02/10/13,"Sun.","Detroit",3,"Los Angeles",2,,20066
+02/10/13,"Sun.","Pittsburgh",1,"New Jersey",3,,18658
+02/10/13,"Sun.","Buffalo",1,"Boston",3,,18869
+02/10/13,"Sun.","NY Rangers",5,"Tampa Bay",1,,17200
+02/11/13,"Mon.","NY Islanders",4,"Carolina",6,,9622
+02/11/13,"Mon.","St. Louis",1,"Los Angeles",4,,14498
+02/11/13,"Mon.","Calgary",1,"Minnesota",2,"SO",19289
+02/11/13,"Mon.","Toronto",5,"Philadelphia",2,,19253
+02/11/13,"Mon.","Colorado",2,"Phoenix",3,"OT",14063
+02/11/13,"Mon.","Columbus",6,"San Jose",2,,10837
+02/12/13,"Tue.","New Jersey",2,"Carolina",4,,17625
+02/12/13,"Tue.","Edmonton",1,"Dallas",4,,16839
+02/12/13,"Tue.","Tampa Bay",3,"Montreal",4,"SO",19204
+02/12/13,"Tue.","Vancouver",2,"Minnesota",1,,18910
+02/12/13,"Tue.","Winnipeg",2,"Philadelphia",3,,15004
+02/12/13,"Tue.","Boston",3,"NY Rangers",4,"SO",17565
+02/12/13,"Tue.","Ottawa",2,"Buffalo",0,,18429
+02/12/13,"Tue.","Chicago",2,"Anaheim",3,"SO",21188
+02/12/13,"Tue.","Nashville",1,"San Jose",0,"OT",17113
+02/12/13,"Tue.","Florida",5,"Washington",6,"OT",15340
+02/13/13,"Wed.","Detroit",3,"St. Louis",4,"OT",20066
+02/13/13,"Wed.","Pittsburgh",4,"Ottawa",2,,18637
+02/13/13,"Wed.","Calgary",7,"Dallas",4,,19289
+02/14/13,"Thu.","Florida",0,"Montreal",1,"OT",17021
+02/14/13,"Thu.","Minnesota",3,"Colorado",4,"SO",18822
+02/14/13,"Thu.","NY Rangers",3,"NY Islanders",4,"SO",17200
+02/14/13,"Thu.","Nashville",3,"Phoenix",0,,17113
+02/14/13,"Thu.","Carolina",3,"Toronto",1,,18680
+02/14/13,"Thu.","Tampa Bay",3,"Washington",4,,19204
+02/15/13,"Fri.","Los Angeles",2,"Columbus",1,,18118
+02/15/13,"Fri.","Vancouver",3,"Dallas",4,,18910
+02/15/13,"Fri.","New Jersey",5,"Philadelphia",3,,17625
+02/15/13,"Fri.","Winnipeg",1,"Pittsburgh",3,,15004
+02/15/13,"Fri.","Buffalo",4,"Boston",2,,19070
+02/15/13,"Fri.","Detroit",2,"Anaheim",5,,20066
+02/15/13,"Fri.","Calgary",2,"St. Louis",5,,19289
+02/15/13,"Fri.","Chicago",4,"San Jose",1,,21824
+02/16/13,"Sat.","Phoenix",5,"Columbus",3,,15425
+02/16/13,"Sat.","Edmonton",6,"Colorado",4,,16839
+02/16/13,"Sat.","NY Islanders",5,"New Jersey",1,,15488
+02/16/13,"Sat.","Toronto",3,"Ottawa",0,,19537
+02/16/13,"Sat.","Nashville",2,"Anaheim",3,"SO",17322
+02/16/13,"Sat.","Florida",5,"Tampa Bay",6,"OT",17009
+02/16/13,"Sat.","Montreal",4,"Philadelphia",1,,21273
+02/17/13,"Sun.","Minnesota",3,"Detroit",2,,19117
+02/17/13,"Sun.","Chicago",3,"Los Angeles",2,,21843
+02/17/13,"Sun.","Buffalo",3,"Pittsburgh",4,,19070
+02/17/13,"Sun.","Dallas",3,"Calgary",4,,17340
+02/17/13,"Sun.","Winnipeg",2,"Boston",3,,15004
+02/17/13,"Sun.","Vancouver",3,"St. Louis",4,"SO",18910
+02/17/13,"Sun.","NY Rangers",2,"Washington",1,,17200
+02/18/13,"Mon.","Montreal",3,"Carolina",0,,21273
+02/18/13,"Mon.","Anaheim",3,"Columbus",2,,14713
+02/18/13,"Mon.","Colorado",6,"Nashville",5,,15099
+02/18/13,"Mon.","New Jersey",1,"Ottawa",2,"SO",17625
+02/18/13,"Mon.","NY Islanders",0,"Philadelphia",7,,16170
+02/18/13,"Mon.","Phoenix",4,"Calgary",0,,17208
+02/18/13,"Mon.","Florida",0,"Toronto",3,,17177
+02/19/13,"Tue.","Nashville",4,"Detroit",3,"OT",17113
+02/19/13,"Tue.","Edmonton",1,"Los Angeles",3,,16839
+02/19/13,"Tue.","NY Rangers",1,"Montreal",3,,17200
+02/19/13,"Tue.","Ottawa",3,"NY Islanders",1,,18595
+02/19/13,"Tue.","Chicago",4,"Vancouver",3,"SO",21423
+02/19/13,"Tue.","St. Louis",1,"San Jose",2,,16100
+02/19/13,"Tue.","Tampa Bay",4,"Toronto",2,,19204
+02/19/13,"Tue.","Buffalo",1,"Winnipeg",2,,19070
+02/20/13,"Wed.","Calgary",1,"Los Angeles",3,,19289
+02/20/13,"Wed.","Pittsburgh",5,"Philadelphia",6,,18650
+02/20/13,"Wed.","Colorado",1,"St. Louis",0,"OT",14651
+02/21/13,"Thu.","Detroit",2,"Columbus",3,,20066
+02/21/13,"Thu.","Philadelphia",2,"Florida",5,,19605
+02/21/13,"Thu.","Washington",2,"New Jersey",3,,18506
+02/21/13,"Thu.","Edmonton",1,"Minnesota",3,,16839
+02/21/13,"Thu.","Montreal",3,"NY Islanders",4,"OT",21273
+02/21/13,"Thu.","Ottawa",3,"NY Rangers",2,"SO",19076
+02/21/13,"Thu.","Dallas",3,"Vancouver",4,,17393
+02/21/13,"Thu.","Toronto",3,"Buffalo",1,,19473
+02/21/13,"Thu.","Tampa Bay",2,"Boston",4,,19204
+02/21/13,"Thu.","Carolina",3,"Winnipeg",4,,18282
+02/22/13,"Fri.","Pittsburgh",3,"Florida",1,,18655
+02/22/13,"Fri.","Nashville",0,"Vancouver",1,,17113
+02/22/13,"Fri.","Chicago",2,"San Jose",1,,21670
+02/23/13,"Sat.","St. Louis",2,"Columbus",1,,19457
+02/23/13,"Sat.","Los Angeles",4,"Colorado",1,,18118
+02/23/13,"Sat.","Washington",5,"New Jersey",1,,18506
+02/23/13,"Sat.","Detroit",4,"Nashville",0,,20066
+02/23/13,"Sat.","Calgary",3,"Minnesota",1,,19289
+02/23/13,"Sat.","Buffalo",0,"NY Islanders",4,,19070
+02/23/13,"Sat.","Montreal",3,"NY Rangers",0,,21273
+02/23/13,"Sat.","Philadelphia",5,"Winnipeg",3,,19933
+02/23/13,"Sat.","Carolina",2,"Tampa Bay",5,,18680
+02/23/13,"Sat.","Ottawa",3,"Toronto",2,,19499
+02/23/13,"Sat.","Dallas",3,"San Jose",1,,18584
+02/23/13,"Sat.","Edmonton",3,"Phoenix",2,"SO",16839
+02/24/13,"Sun.","NY Islanders",2,"Carolina",4,,10048
+02/24/13,"Sun.","Chicago",1,"Columbus",0,,21580
+02/24/13,"Sun.","Anaheim",4,"Colorado",3,"OT",17174
+02/24/13,"Sun.","Calgary",5,"Phoenix",4,,19289
+02/24/13,"Sun.","Detroit",8,"Vancouver",3,,20066
+02/24/13,"Sun.","Florida",1,"Boston",4,,18108
+02/24/13,"Sun.","Pittsburgh",5,"Tampa Bay",3,,18632
+02/24/13,"Sun.","New Jersey",2,"Winnipeg",4,,17625
+02/25/13,"Mon.","Chicago",3,"Edmonton",2,"OT",21127
+02/25/13,"Mon.","Nashville",5,"Dallas",4,"OT",17113
+02/25/13,"Mon.","Ottawa",2,"Montreal",1,"SO",19218
+02/25/13,"Mon.","Los Angeles",5,"Anaheim",2,,18118
+02/25/13,"Mon.","Philadelphia",2,"Toronto",4,,19645
+02/26/13,"Tue.","Washington",3,"Carolina",0,,18506
+02/26/13,"Tue.","San Jose",3,"Colorado",2,"SO",17562
+02/26/13,"Tue.","Columbus",4,"Dallas",5,"OT",11523
+02/26/13,"Tue.","Florida",6,"Pittsburgh",4,,17378
+02/26/13,"Tue.","Vancouver",2,"Phoenix",4,,18910
+02/26/13,"Tue.","Minnesota",2,"Calgary",1,"OT",18703
+02/26/13,"Tue.","Tampa Bay",1,"Buffalo",2,,19204
+02/26/13,"Tue.","NY Islanders",1,"Boston",4,,12788
+02/26/13,"Tue.","NY Rangers",3,"Winnipeg",4,,17200
+02/27/13,"Wed.","Los Angeles",2,"Detroit",1,,18118
+02/27/13,"Wed.","Anaheim",5,"Nashville",1,,13630
+02/27/13,"Wed.","Toronto",2,"Montreal",5,,19625
+02/27/13,"Wed.","Philadelphia",4,"Washington",1,,19904
+02/28/13,"Thu.","St. Louis",0,"Chicago",3,,19533
+02/28/13,"Thu.","Dallas",1,"Edmonton",5,,17004
+02/28/13,"Thu.","San Jose",1,"Detroit",2,"SO",17562
+02/28/13,"Thu.","Winnipeg",3,"New Jersey",1,,15004
+02/28/13,"Thu.","Phoenix",3,"Minnesota",4,,11547
+02/28/13,"Thu.","Boston",2,"Ottawa",1,"OT",17565
+02/28/13,"Thu.","Carolina",4,"Pittsburgh",1,,18680
+02/28/13,"Thu.","Colorado",5,"Calgary",4,,15197
+02/28/13,"Thu.","Florida",3,"Buffalo",4,"SO",15672
+02/28/13,"Thu.","NY Islanders",4,"Toronto",5,"OT",9222
+02/28/13,"Thu.","NY Rangers",4,"Tampa Bay",1,,17200
+03/01/13,"Fri.","Chicago",4,"Columbus",3,"OT",21828
+03/01/13,"Fri.","St. Louis",4,"Edmonton",2,,19476
+03/01/13,"Fri.","Anaheim",3,"Minnesota",2,,15264
+03/02/13,"Sat.","Carolina",6,"Florida",2,,18680
+03/02/13,"Sat.","San Jose",2,"Nashville",1,,17562
+03/02/13,"Sat.","Vancouver",5,"Los Angeles",2,,18910
+03/02/13,"Sat.","Buffalo",4,"New Jersey",3,"SO",19070
+03/02/13,"Sat.","Philadelphia",2,"Ottawa",1,,19959
+03/02/13,"Sat.","Montreal",6,"Pittsburgh",7,"OT",21273
+03/02/13,"Sat.","Phoenix",5,"Anaheim",4,"SO",15227
+03/02/13,"Sat.","Boston",3,"Tampa Bay",2,,17565
+03/02/13,"Sat.","Winnipeg",0,"Washington",3,,15004
+03/03/13,"Sun.","Florida",2,"Carolina",3,,15978
+03/03/13,"Sun.","Detroit",1,"Chicago",2,"SO",20066
+03/03/13,"Sun.","Columbus",2,"Colorado",1,"OT",13778
+03/03/13,"Sun.","Minnesota",4,"Edmonton",2,,18675
+03/03/13,"Sun.","Boston",3,"Montreal",4,,17565
+03/03/13,"Sun.","NY Islanders",3,"Ottawa",2,"SO",13512
+03/03/13,"Sun.","Calgary",4,"Vancouver",2,,19289
+03/03/13,"Sun.","NY Rangers",3,"Buffalo",2,"SO",17200
+03/03/13,"Sun.","Dallas",4,"St. Louis",1,,16663
+03/04/13,"Mon.","Los Angeles",5,"Nashville",1,,18118
+03/04/13,"Mon.","Toronto",4,"New Jersey",2,,19435
+03/04/13,"Mon.","Phoenix",5,"Anaheim",4,"SO",11024
+03/04/13,"Mon.","Pittsburgh",4,"Tampa Bay",3,,18656
+03/05/13,"Tue.","Detroit",2,"Colorado",1,,20066
+03/05/13,"Tue.","Columbus",4,"Edmonton",3,"SO",14952
+03/05/13,"Tue.","NY Islanders",6,"Montreal",3,,9498
+03/05/13,"Tue.","Chicago",5,"Minnesota",3,,21836
+03/05/13,"Tue.","NY Rangers",4,"Philadelphia",2,,17200
+03/05/13,"Tue.","Carolina",4,"Buffalo",3,,15277
+03/05/13,"Tue.","Washington",4,"Boston",3,"OT",18506
+03/05/13,"Tue.","Los Angeles",6,"St. Louis",4,,18118
+03/05/13,"Tue.","Vancouver",2,"San Jose",3,"SO",18910
+03/05/13,"Tue.","New Jersey",2,"Tampa Bay",5,,15229
+03/05/13,"Tue.","Florida",4,"Winnipeg",1,,14574
+03/06/13,"Wed.","Chicago",3,"Colorado",2,,21531
+03/06/13,"Wed.","Toronto",5,"Ottawa",4,,19412
+03/06/13,"Wed.","Anaheim",2,"Phoenix",0,,13456
+03/06/13,"Wed.","Calgary",4,"San Jose",1,,19289
+03/07/13,"Thu.","Los Angeles",2,"Dallas",5,,18118
+03/07/13,"Thu.","Washington",7,"Florida",1,,18506
+03/07/13,"Thu.","Detroit",3,"Edmonton",0,,20066
+03/07/13,"Thu.","Carolina",2,"Montreal",4,,16774
+03/07/13,"Thu.","NY Islanders",1,"NY Rangers",2,"OT",16170
+03/07/13,"Thu.","Columbus",2,"Vancouver",1,"OT",13632
+03/07/13,"Thu.","New Jersey",3,"Buffalo",2,"SO",17625
+03/07/13,"Thu.","Phoenix",3,"St. Louis",6,,11482
+03/07/13,"Thu.","Philadelphia",4,"Pittsburgh",5,,19997
+03/07/13,"Thu.","Boston",4,"Toronto",2,,17565
+03/07/13,"Thu.","Tampa Bay",1,"Winnipeg",2,,19204
+03/08/13,"Fri.","Colorado",6,"Chicago",2,,18007
+03/08/13,"Fri.","Nashville",6,"Edmonton",0,,17277
+03/08/13,"Fri.","NY Rangers",2,"Ottawa",3,,17200
+03/08/13,"Fri.","Anaheim",4,"Calgary",0,,15839
+03/08/13,"Fri.","Florida",2,"Winnipeg",3,"OT",16442
+03/09/13,"Sat.","Columbus",3,"Detroit",0,,17957
+03/09/13,"Sat.","Phoenix",2,"Dallas",1,,15842
+03/09/13,"Sat.","Tampa Bay",3,"Montreal",4,,19204
+03/09/13,"Sat.","Nashville",1,"Minnesota",2,"SO",17113
+03/09/13,"Sat.","Carolina",6,"New Jersey",3,,18680
+03/09/13,"Sat.","Boston",3,"Philadelphia",0,,17565
+03/09/13,"Sat.","Los Angeles",6,"Calgary",2,,18248
+03/09/13,"Sat.","San Jose",3,"St. Louis",4,"OT",17562
+03/09/13,"Sat.","Toronto",4,"Pittsburgh",5,"SO",19418
+03/09/13,"Sat.","NY Islanders",5,"Washington",2,,14819
+03/10/13,"Sun.","Washington",1,"NY Rangers",4,,18506
+03/10/13,"Sun.","Florida",2,"Montreal",5,,19189
+03/10/13,"Sun.","Chicago",5,"Edmonton",6,,22020
+03/10/13,"Sun.","Detroit",2,"Columbus",3,"SO",20066
+03/10/13,"Sun.","Pittsburgh",6,"NY Islanders",1,,18634
+03/10/13,"Sun.","Minnesota",4,"Vancouver",2,,18846
+03/10/13,"Sun.","Philadelphia",3,"Buffalo",2,,19687
+03/10/13,"Sun.","Anaheim",4,"St. Louis",2,,17174
+03/10/13,"Sun.","Colorado",3,"San Jose",2,"OT",16040
+03/10/13,"Sun.","New Jersey",3,"Winnipeg",2,"SO",17625
+03/11/13,"Mon.","Los Angeles",3,"Calgary",1,,18118
+03/11/13,"Mon.","Ottawa",2,"Boston",3,"SO",20256
+03/12/13,"Tue.","Washington",0,"Carolina",4,,18506
+03/12/13,"Tue.","Colorado",0,"Edmonton",4,,14360
+03/12/13,"Tue.","Dallas",0,"Nashville",4,,15661
+03/12/13,"Tue.","Phoenix",5,"Los Angeles",2,,15075
+03/12/13,"Tue.","Buffalo",3,"NY Rangers",1,,19070
+03/12/13,"Tue.","Columbus",1,"Vancouver",2,"SO",14852
+03/12/13,"Tue.","Pittsburgh",3,"Boston",2,,18640
+03/12/13,"Tue.","Minnesota",1,"Anaheim",2,,18808
+03/12/13,"Tue.","St. Louis",4,"San Jose",2,,16583
+03/12/13,"Tue.","Winnipeg",5,"Toronto",2,,15004
+03/12/13,"Tue.","Florida",2,"Tampa Bay",3,,15174
+03/13/13,"Wed.","Calgary",5,"Detroit",2,,19289
+03/13/13,"Wed.","Montreal",4,"Ottawa",3,"SO",21273
+03/13/13,"Wed.","New Jersey",5,"Philadelphia",2,,17625
+03/14/13,"Thu.","Columbus",1,"Chicago",2,"SO",15009
+03/14/13,"Thu.","Minnesota",5,"Colorado",3,,18989
+03/14/13,"Thu.","Boston",4,"Florida",1,,17565
+03/14/13,"Thu.","Vancouver",7,"Nashville",4,,18910
+03/14/13,"Thu.","San Jose",4,"Los Angeles",3,,17562
+03/14/13,"Thu.","Winnipeg",3,"NY Rangers",1,,15004
+03/14/13,"Thu.","Tampa Bay",0,"NY Islanders",2,,19204
+03/14/13,"Thu.","St. Louis",3,"Phoenix",0,,17852
+03/14/13,"Thu.","Dallas",1,"Anaheim",2,"SO",15775
+03/14/13,"Thu.","Toronto",1,"Pittsburgh",3,,19561
+03/14/13,"Thu.","Carolina",2,"Washington",3,,16810
+03/15/13,"Fri.","Edmonton",2,"Detroit",3,"OT",16839
+03/15/13,"Fri.","Calgary",6,"Nashville",3,,19289
+03/15/13,"Fri.","Philadelphia",2,"New Jersey",1,"SO",19971
+03/16/13,"Sat.","Tampa Bay",4,"Carolina",1,,19204
+03/16/13,"Sat.","Dallas",1,"Chicago",8,,18584
+03/16/13,"Sat.","Vancouver",2,"Detroit",5,,18910
+03/16/13,"Sat.","New Jersey",1,"Montreal",2,,17625
+03/16/13,"Sat.","Colorado",4,"Minnesota",6,,17708
+03/16/13,"Sat.","Buffalo",3,"Ottawa",4,"OT",19070
+03/16/13,"Sat.","Pittsburgh",3,"NY Rangers",0,,18658
+03/16/13,"Sat.","Florida",3,"NY Islanders",4,,17627
+03/16/13,"Sat.","Columbus",1,"Phoenix",0,"SO",14231
+03/16/13,"Sat.","St. Louis",2,"Anaheim",1,"OT",19593
+03/16/13,"Sat.","Los Angeles",5,"San Jose",2,,18118
+03/16/13,"Sat.","Toronto",4,"Winnipeg",5,"SO",19401
+03/16/13,"Sat.","Boston",4,"Washington",1,,17565
+03/17/13,"Sun.","Edmonton",3,"Nashville",2,,16839
+03/17/13,"Sun.","Washington",5,"Buffalo",3,,18506
+03/17/13,"Sun.","Pittsburgh",2,"Boston",1,,18659
+03/17/13,"Sun.","Ottawa",4,"Winnipeg",1,,19227
+03/18/13,"Mon.","NY Rangers",2,"Carolina",1,"SO",17200
+03/18/13,"Mon.","Dallas",4,"Calgary",3,,16057
+03/18/13,"Mon.","Colorado",2,"Chicago",5,,16952
+03/18/13,"Mon.","Vancouver",1,"Minnesota",3,,18910
+03/18/13,"Mon.","Los Angeles",4,"Phoenix",0,,18118
+03/18/13,"Mon.","Tampa Bay",4,"Philadelphia",2,,19204
+03/18/13,"Mon.","Anaheim",5,"San Jose",3,,14441
+03/19/13,"Tue.","Carolina",1,"Florida",4,,16349
+03/19/13,"Tue.","Columbus",4,"Nashville",3,,13364
+03/19/13,"Tue.","NY Islanders",3,"Ottawa",5,,10668
+03/19/13,"Tue.","New Jersey",2,"NY Rangers",3,,17625
+03/19/13,"Tue.","Los Angeles",3,"Phoenix",2,,18118
+03/19/13,"Tue.","Montreal",2,"Buffalo",3,"OT",21273
+03/19/13,"Tue.","Winnipeg",3,"Boston",1,,15004
+03/19/13,"Tue.","Vancouver",3,"St. Louis",2,,18910
+03/19/13,"Tue.","Pittsburgh",2,"Washington",1,,18653
+03/20/13,"Wed.","Anaheim",4,"Chicago",2,,17610
+03/20/13,"Wed.","Colorado",4,"Dallas",3,,13813
+03/20/13,"Wed.","Detroit",2,"Minnesota",4,,20066
+03/20/13,"Wed.","Edmonton",3,"San Jose",4,"SO",16839
+03/20/13,"Wed.","Toronto",4,"Tampa Bay",2,,19433
+03/21/13,"Thu.","Nashville",5,"Calgary",3,,17113
+03/21/13,"Thu.","Los Angeles",0,"Dallas",2,,18118
+03/21/13,"Thu.","NY Rangers",1,"Florida",3,,17200
+03/21/13,"Thu.","NY Islanders",2,"Montreal",5,,11012
+03/21/13,"Thu.","Carolina",1,"New Jersey",4,,16941
+03/21/13,"Thu.","Phoenix",1,"Vancouver",2,,17220
+03/21/13,"Thu.","Ottawa",1,"Boston",2,,19603
+03/21/13,"Thu.","Buffalo",5,"Toronto",4,"SO",19070
+03/21/13,"Thu.","Winnipeg",0,"Washington",4,,15004
+03/22/13,"Fri.","Columbus",5,"Calgary",1,,13853
+03/22/13,"Fri.","Anaheim",1,"Detroit",5,,17174
+03/22/13,"Fri.","NY Islanders",2,"Pittsburgh",4,,14888
+03/22/13,"Fri.","Winnipeg",1,"Washington",6,,15004
+03/23/13,"Sat.","Nashville",5,"Columbus",2,,17113
+03/23/13,"Sat.","Dallas",5,"Colorado",2,,17311
+03/23/13,"Sat.","New Jersey",2,"Florida",1,,17625
+03/23/13,"Sat.","Los Angeles",0,"Vancouver",1,,18118
+03/23/13,"Sat.","Montreal",1,"Buffalo",2,,21273
+03/23/13,"Sat.","Toronto",3,"Boston",2,,19236
+03/23/13,"Sat.","Edmonton",0,"St. Louis",3,,16839
+03/23/13,"Sat.","Minnesota",2,"San Jose",0,,19358
+03/23/13,"Sat.","Ottawa",5,"Tampa Bay",3,,20016
+03/24/13,"Sun.","Anaheim",1,"Detroit",2,,17427
+03/24/13,"Sun.","NY Islanders",3,"Florida",0,,14512
+03/24/13,"Sun.","Pittsburgh",2,"Philadelphia",1,"OT",18662
+03/24/13,"Sun.","Colorado",2,"Vancouver",3,,15194
+03/24/13,"Sun.","Calgary",3,"St. Louis",2,,19289
+03/24/13,"Sun.","Winnipeg",3,"Tampa Bay",2,,15004
+03/24/13,"Sun.","NY Rangers",2,"Washington",3,"SO",17200
+03/25/13,"Mon.","Phoenix",2,"Detroit",3,,17428
+03/25/13,"Mon.","Nashville",3,"Edmonton",2,,17113
+03/25/13,"Mon.","Dallas",4,"Minnesota",7,,16167
+03/25/13,"Mon.","Chicago",4,"Los Angeles",5,,21850
+03/25/13,"Mon.","Ottawa",3,"New Jersey",2,"SO",18902
+03/25/13,"Mon.","Anaheim",3,"San Jose",5,,16083
+03/25/13,"Mon.","Boston",3,"Toronto",2,"SO",17565
+03/26/13,"Tue.","Chicago",2,"Calgary",0,,21790
+03/26/13,"Tue.","Vancouver",1,"Columbus",0,"SO",18910
+03/26/13,"Tue.","Toronto",3,"Florida",2,,19379
+03/26/13,"Tue.","St. Louis",0,"Edmonton",3,,17260
+03/26/13,"Tue.","Pittsburgh",1,"Montreal",0,,18646
+03/26/13,"Tue.","Philadelphia",2,"NY Rangers",5,,19961
+03/26/13,"Tue.","Washington",2,"NY Islanders",3,,18506
+03/26/13,"Tue.","Tampa Bay",2,"Buffalo",1,,19204
+03/26/13,"Tue.","Carolina",1,"Winnipeg",4,,16225
+03/27/13,"Wed.","Calgary",4,"Colorado",3,,19289
+03/27/13,"Wed.","Boston",5,"Montreal",6,"SO",17565
+03/27/13,"Wed.","Minnesota",4,"Phoenix",3,"OT",19076
+03/27/13,"Wed.","San Jose",4,"Anaheim",0,,17562
+03/28/13,"Thu.","Toronto",6,"Carolina",3,,19236
+03/28/13,"Thu.","Edmonton",6,"Columbus",4,,16839
+03/28/13,"Thu.","Vancouver",4,"Colorado",1,,18910
+03/28/13,"Thu.","San Jose",2,"Detroit",0,,17562
+03/28/13,"Thu.","St. Louis",2,"Los Angeles",4,,19770
+03/28/13,"Thu.","Ottawa",3,"NY Rangers",0,,19447
+03/28/13,"Thu.","Philadelphia",3,"NY Islanders",4,"SO",19906
+03/28/13,"Thu.","Nashville",4,"Phoenix",7,,17113
+03/28/13,"Thu.","Florida",5,"Buffalo",4,"SO",17044
+03/28/13,"Thu.","Pittsburgh",4,"Winnipeg",0,,18649
+03/29/13,"Fri.","Calgary",4,"Columbus",6,,19289
+03/29/13,"Fri.","Dallas",5,"Minnesota",3,,17376
+03/29/13,"Fri.","Tampa Bay",5,"New Jersey",4,"SO",19204
+03/29/13,"Fri.","Chicago",1,"Anaheim",2,,22105
+03/30/13,"Sat.","Winnipeg",1,"Carolina",3,,15004
+03/30/13,"Sat.","Colorado",1,"Nashville",0,"OT",15324
+03/30/13,"Sat.","Minnesota",4,"Los Angeles",3,"SO",19223
+03/30/13,"Sat.","Florida",3,"New Jersey",2,"OT",18138
+03/30/13,"Sat.","Montreal",3,"NY Rangers",0,,21273
+03/30/13,"Sat.","Pittsburgh",2,"NY Islanders",0,,18673
+03/30/13,"Sat.","San Jose",3,"Phoenix",2,"SO",17562
+03/30/13,"Sat.","Edmonton",4,"Vancouver",0,,16839
+03/30/13,"Sat.","Ottawa",0,"Toronto",4,,20183
+03/30/13,"Sat.","Philadelphia",3,"Boston",1,,19997
+03/30/13,"Sat.","Buffalo",3,"Washington",4,"SO",19070
+03/31/13,"Sun.","Detroit",1,"Chicago",7,,20066
+03/31/13,"Sun.","Dallas",2,"Los Angeles",3,,15719
+03/31/13,"Sun.","Buffalo",0,"Boston",2,,19027
+03/31/13,"Sun.","Columbus",2,"Anaheim",1,"OT",13185
+03/31/13,"Sun.","Philadelphia",5,"Washington",4,"OT",19681
+04/01/13,"Mon.","Montreal",4,"Carolina",1,,21273
+04/01/13,"Mon.","Edmonton",4,"Calgary",1,,16839
+04/01/13,"Mon.","Detroit",3,"Colorado",2,,20066
+04/01/13,"Mon.","Chicago",3,"Nashville",2,"SO",21306
+04/01/13,"Mon.","New Jersey",1,"NY Islanders",3,,17625
+04/01/13,"Mon.","San Jose",3,"Vancouver",2,,17562
+04/01/13,"Mon.","Dallas",0,"Anaheim",4,,13748
+04/01/13,"Mon.","Minnesota",1,"St. Louis",4,,18786
+04/01/13,"Mon.","NY Rangers",4,"Winnipeg",2,,17200
+04/02/13,"Tue.","Nashville",3,"Colorado",1,,16211
+04/02/13,"Tue.","Tampa Bay",2,"Florida",3,"SO",17904
+04/02/13,"Tue.","Phoenix",3,"Los Angeles",1,,12934
+04/02/13,"Tue.","Boston",3,"Ottawa",2,,17565
+04/02/13,"Tue.","Pittsburgh",1,"Buffalo",4,,18642
+04/02/13,"Tue.","NY Islanders",5,"Winnipeg",2,,11819
+04/02/13,"Tue.","Carolina",3,"Washington",5,,16530
+04/03/13,"Wed.","Anaheim",5,"Dallas",2,,15165
+04/03/13,"Wed.","Calgary",2,"Edmonton",8,,19289
+04/03/13,"Wed.","Philadelphia",5,"Montreal",3,,19882
+04/03/13,"Wed.","San Jose",4,"Minnesota",2,,17562
+04/03/13,"Wed.","NY Rangers",6,"Pittsburgh",1,,17200
+04/04/13,"Thu.","Nashville",1,"Columbus",3,,17113
+04/04/13,"Thu.","Phoenix",4,"Detroit",2,,16623
+04/04/13,"Thu.","Vancouver",4,"Edmonton",0,,18910
+04/04/13,"Thu.","Los Angeles",3,"Minnesota",0,,18118
+04/04/13,"Thu.","Boston",1,"New Jersey",0,,17565
+04/04/13,"Thu.","Washington",2,"NY Islanders",1,"SO",18506
+04/04/13,"Thu.","Toronto",3,"Philadelphia",5,,19619
+04/04/13,"Thu.","Carolina",0,"Tampa Bay",5,,17042
+04/04/13,"Thu.","Chicago",3,"St. Louis",4,"SO",22081
+04/04/13,"Thu.","Montreal",4,"Winnipeg",1,,21273
+04/05/13,"Fri.","San Jose",2,"Calgary",1,,17562
+04/05/13,"Fri.","St. Louis",3,"Columbus",1,,19224
+04/05/13,"Fri.","Colorado",2,"Detroit",3,"OT",18007
+04/05/13,"Fri.","Anaheim",1,"Dallas",3,,16884
+04/05/13,"Fri.","Buffalo",4,"Ottawa",2,,18811
+04/05/13,"Fri.","Pittsburgh",2,"NY Rangers",1,"SO",18659
+04/06/13,"Sat.","Vancouver",5,"Calgary",2,,18910
+04/06/13,"Sat.","Nashville",0,"Chicago",1,,17256
+04/06/13,"Sat.","Phoenix",4,"Colorado",0,,16648
+04/06/13,"Sat.","Los Angeles",4,"Edmonton",1,,18118
+04/06/13,"Sat.","Carolina",1,"NY Rangers",4,,17457
+04/06/13,"Sat.","Winnipeg",4,"Philadelphia",1,,15004
+04/06/13,"Sat.","New Jersey",1,"Toronto",2,,17625
+04/06/13,"Sat.","Montreal",2,"Boston",1,,21273
+04/06/13,"Sat.","NY Islanders",4,"Tampa Bay",2,,16170
+04/06/13,"Sat.","Florida",3,"Washington",4,,16886
+04/07/13,"Sun.","San Jose",4,"Dallas",5,"SO",17562
+04/07/13,"Sun.","Chicago",5,"Nashville",3,,22044
+04/07/13,"Sun.","Columbus",0,"Minnesota",3,,15909
+04/07/13,"Sun.","Anaheim",4,"Los Angeles",3,"SO",17494
+04/07/13,"Sun.","Buffalo",3,"New Jersey",2,"SO",18703
+04/07/13,"Sun.","Florida",2,"Ottawa",1,,15552
+04/07/13,"Sun.","Washington",4,"Tampa Bay",2,,18506
+04/07/13,"Sun.","Detroit",0,"St. Louis",1,,20066
+04/08/13,"Mon.","Boston",6,"Carolina",2,,17565
+04/08/13,"Mon.","Colorado",1,"Calgary",3,,13444
+04/08/13,"Mon.","Anaheim",2,"Edmonton",1,,15148
+04/08/13,"Mon.","Toronto",4,"NY Rangers",3,,19437
+04/08/13,"Mon.","Vancouver",2,"Phoenix",0,,18910
+04/09/13,"Tue.","Minnesota",0,"Chicago",1,,19158
+04/09/13,"Tue.","Dallas",5,"Los Angeles",1,,16367
+04/09/13,"Tue.","Tampa Bay",3,"Ottawa",2,,17323
+04/09/13,"Tue.","NY Islanders",4,"Philadelphia",1,,13888
+04/09/13,"Tue.","Winnipeg",4,"Buffalo",1,,15004
+04/09/13,"Tue.","Columbus",4,"San Jose",0,,17771
+04/09/13,"Tue.","Carolina",3,"Pittsburgh",5,,17168
+04/09/13,"Tue.","Nashville",0,"St. Louis",1,,15063
+04/09/13,"Tue.","Montreal",2,"Washington",3,,21273
+04/10/13,"Wed.","Anaheim",1,"Colorado",4,,14646
+04/10/13,"Wed.","Edmonton",1,"Phoenix",3,,16839
+04/10/13,"Wed.","NY Rangers",3,"Toronto",2,"SO",17200
+04/10/13,"Wed.","New Jersey",4,"Boston",5,,17625
+04/10/13,"Wed.","Calgary",1,"Vancouver",4,,19289
+04/11/13,"Thu.","Washington",3,"Carolina",1,,18506
+04/11/13,"Thu.","Los Angeles",3,"Colorado",2,"SO",18118
+04/11/13,"Thu.","Winnipeg",7,"Florida",2,,15004
+04/11/13,"Thu.","Buffalo",1,"Montreal",5,,19070
+04/11/13,"Thu.","Philadelphia",1,"Ottawa",3,,19598
+04/11/13,"Thu.","Boston",1,"NY Islanders",2,,17565
+04/11/13,"Thu.","Detroit",2,"San Jose",3,"SO",20066
+04/11/13,"Thu.","Tampa Bay",3,"Pittsburgh",6,,19204
+04/11/13,"Thu.","Minnesota",0,"St. Louis",2,,18947
+04/12/13,"Fri.","Chicago",3,"Detroit",2,"SO",22191
+04/12/13,"Fri.","Nashville",2,"Dallas",5,,16818
+04/12/13,"Fri.","New Jersey",0,"Ottawa",2,,16099
+04/12/13,"Fri.","Calgary",3,"Phoenix",2,"OT",19289
+04/12/13,"Fri.","Columbus",4,"St. Louis",1,,17007
+04/13/13,"Sat.","Edmonton",1,"Calgary",4,,16839
+04/13/13,"Sat.","Minnesota",2,"Columbus",3,"SO",19187
+04/13/13,"Sat.","Toronto",5,"Montreal",1,,19651
+04/13/13,"Sat.","NY Islanders",0,"NY Rangers",1,"OT",16170
+04/13/13,"Sat.","Buffalo",1,"Philadelphia",0,,19070
+04/13/13,"Sat.","Carolina",4,"Boston",2,,18680
+04/13/13,"Sat.","Los Angeles",2,"Anaheim",1,,18473
+04/13/13,"Sat.","Dallas",2,"San Jose",1,,18007
+04/13/13,"Sat.","Florida",1,"Pittsburgh",3,,18891
+04/13/13,"Sat.","Washington",6,"Tampa Bay",5,"OT",18506
+04/13/13,"Sat.","Colorado",4,"Vancouver",3,,15229
+04/14/13,"Sun.","St. Louis",0,"Chicago",2,,19385
+04/14/13,"Sun.","Nashville",0,"Detroit",3,,17113
+04/14/13,"Sun.","Buffalo",3,"Tampa Bay",1,,18991
+04/15/13,"Mon.","Colorado",3,"Columbus",4,"OT",13694
+04/15/13,"Mon.","Chicago",5,"Dallas",2,,21986
+04/15/13,"Mon.","Calgary",3,"Minnesota",4,,19289
+04/15/13,"Mon.","Toronto",2,"New Jersey",0,,19425
+04/15/13,"Mon.","Montreal",3,"Philadelphia",7,,21273
+04/15/13,"Mon.","Phoenix",0,"San Jose",4,,13094
+04/15/13,"Mon.","Nashville",2,"Vancouver",5,,16518
+04/16/13,"Tue.","Ottawa",3,"Carolina",2,,19181
+04/16/13,"Tue.","NY Islanders",5,"Florida",2,,15922
+04/16/13,"Tue.","Edmonton",3,"Minnesota",5,,16839
+04/16/13,"Tue.","San Jose",3,"Los Angeles",2,"SO",17562
+04/16/13,"Tue.","Philadelphia",4,"NY Rangers",2,,19706
+04/16/13,"Tue.","Washington",5,"Toronto",1,,18506
+04/16/13,"Tue.","Winnipeg",4,"Tampa Bay",3,"SO",15004
+04/16/13,"Tue.","St. Louis",2,"Vancouver",1,"SO",17709
+04/17/13,"Wed.","Anaheim",2,"Columbus",3,"OT",15074
+04/17/13,"Wed.","Calgary",3,"Detroit",2,,19289
+04/17/13,"Wed.","Pittsburgh",6,"Montreal",4,,18626
+04/17/13,"Wed.","Boston",2,"Buffalo",3,"SO",17565
+04/18/13,"Thu.","Winnipeg",4,"Carolina",3,"OT",15004
+04/18/13,"Thu.","Los Angeles",2,"Columbus",1,,18118
+04/18/13,"Thu.","NY Rangers",6,"Florida",1,,17200
+04/18/13,"Thu.","San Jose",6,"Minnesota",1,,17562
+04/18/13,"Thu.","Philadelphia",0,"New Jersey",3,,19727
+04/18/13,"Thu.","Toronto",3,"NY Islanders",5,,19676
+04/18/13,"Thu.","St. Louis",2,"Phoenix",1,"SO",17205
+04/18/13,"Thu.","Montreal",3,"Tampa Bay",2,,21273
+04/18/13,"Thu.","Ottawa",3,"Washington",1,,19965
+04/18/13,"Thu.","Dallas",5,"Vancouver",1,,16571
+04/19/13,"Fri.","St. Louis",2,"Dallas",1,,19328
+04/19/13,"Fri.","Colorado",1,"Edmonton",4,,15890
+04/19/13,"Fri.","Chicago",5,"Nashville",4,"OT",22014
+04/19/13,"Fri.","Buffalo",4,"NY Rangers",8,,19003
+04/19/13,"Fri.","Calgary",3,"Anaheim",1,,19289
+04/20/13,"Sat.","Vancouver",2,"Detroit",1,"SO",18910
+04/20/13,"Sat.","New Jersey",6,"Florida",2,,16018
+04/20/13,"Sat.","Winnipeg",4,"NY Islanders",5,"SO",15004
+04/20/13,"Sat.","Chicago",2,"Phoenix",3,"SO",22272
+04/20/13,"Sat.","Carolina",3,"Philadelphia",5,,18112
+04/20/13,"Sat.","Ottawa",1,"Toronto",4,,20500
+04/20/13,"Sat.","Boston",2,"Pittsburgh",3,,17565
+04/20/13,"Sat.","Montreal",1,"Washington",5,,21273
+04/21/13,"Sun.","Tampa Bay",2,"Carolina",3,,19204
+04/21/13,"Sun.","Minnesota",1,"Calgary",4,,19039
+04/21/13,"Sun.","San Jose",3,"Columbus",4,,17562
+04/21/13,"Sun.","Los Angeles",4,"Dallas",3,"OT",18118
+04/21/13,"Sun.","Boston",3,"Florida",0,,17565
+04/21/13,"Sun.","NY Rangers",4,"New Jersey",1,,17200
+04/21/13,"Sun.","Edmonton",1,"Anaheim",3,,16839
+04/21/13,"Sun.","Colorado",5,"St. Louis",3,,14606
+04/22/13,"Mon.","Vancouver",3,"Chicago",1,,18910
+04/22/13,"Mon.","Detroit",4,"Phoenix",0,,20066
+04/22/13,"Mon.","Edmonton",0,"Anaheim",3,,16839
+04/22/13,"Mon.","Ottawa",1,"Pittsburgh",3,,20276
+04/22/13,"Mon.","Buffalo",1,"Winnipeg",2,,18654
+04/23/13,"Tue.","Nashville",4,"Calgary",3,,17113
+04/23/13,"Tue.","St. Louis",3,"Colorado",1,,15427
+04/23/13,"Tue.","San Jose",3,"Dallas",2,,17562
+04/23/13,"Tue.","New Jersey",3,"Montreal",2,,15219
+04/23/13,"Tue.","Minnesota",2,"Los Angeles",1,,18825
+04/23/13,"Tue.","Florida",3,"NY Rangers",2,,17758
+04/23/13,"Tue.","Carolina",4,"NY Islanders",3,"SO",16601
+04/23/13,"Tue.","Pittsburgh",2,"Buffalo",4,,18630
+04/23/13,"Tue.","Philadelphia",5,"Boston",2,,19717
+04/23/13,"Tue.","Washington",5,"Winnipeg",3,,18506
+04/24/13,"Wed.","Edmonton",1,"Chicago",4,,16839
+04/24/13,"Wed.","Detroit",3,"Los Angeles",1,,20066
+04/24/13,"Wed.","Tampa Bay",5,"Toronto",2,,18826
+04/24/13,"Wed.","Phoenix",2,"San Jose",1,,12588
+04/25/13,"Thu.","St. Louis",4,"Calgary",1,,15302
+04/25/13,"Thu.","Dallas",1,"Columbus",3,,16918
+04/25/13,"Thu.","Detroit",5,"Nashville",2,,20066
+04/25/13,"Thu.","Winnipeg",2,"Montreal",4,,15004
+04/25/13,"Thu.","Washington",1,"Ottawa",2,"OT",18506
+04/25/13,"Thu.","Carolina",3,"NY Rangers",4,"OT",17172
+04/25/13,"Thu.","Philadelphia",2,"NY Islanders",1,,19798
+04/25/13,"Thu.","Florida",0,"Toronto",4,,16484
+04/25/13,"Thu.","Vancouver",1,"Anaheim",3,,18910
+04/25/13,"Thu.","New Jersey",3,"Pittsburgh",2,,16122
+04/25/13,"Thu.","Boston",2,"Tampa Bay",0,,17565
+04/26/13,"Fri.","Chicago",3,"Calgary",1,,22048
+04/26/13,"Fri.","Phoenix",4,"Colorado",5,"SO",16011
+04/26/13,"Fri.","Minnesota",1,"Edmonton",6,,19090
+04/26/13,"Fri.","Buffalo",2,"NY Islanders",1,"SO",19070
+04/27/13,"Sat.","Pittsburgh",8,"Carolina",3,,18658
+04/27/13,"Sat.","St. Louis",3,"Chicago",1,,19841
+04/27/13,"Sat.","Dallas",0,"Detroit",3,,18532
+04/27/13,"Sat.","Tampa Bay",3,"Florida",5,,19204
+04/27/13,"Sat.","Columbus",3,"Nashville",1,,19002
+04/27/13,"Sat.","Toronto",1,"Montreal",4,,19730
+04/27/13,"Sat.","Colorado",1,"Minnesota",3,,17731
+04/27/13,"Sat.","NY Rangers",4,"New Jersey",0,,17200
+04/27/13,"Sat.","Anaheim",3,"Phoenix",5,,17442
+04/27/13,"Sat.","Ottawa",1,"Philadelphia",2,,20232
+04/27/13,"Sat.","Washington",3,"Boston",2,"OT",18506
+04/27/13,"Sat.","Los Angeles",3,"San Jose",2,,18443
+04/27/13,"Sat.","Edmonton",7,"Vancouver",2,,16839
+04/28/13,"Sun.","Boston",2,"Ottawa",4,,17565
